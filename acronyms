@@ -1,0 +1,35 @@
+
+
+ANS	American National Standard	
+
+CA	Certification Authority	
+
+FIPS	Federal Information Processing Standard	
+
+NIST	National Institute of Standards and Technology	
+
+DSS	 DIGITAL SIGNATURE STANDARD (DSS)	
+
+DRBG	Deterministic Random Bit Generator1	
+
+DSA	Digital Signature Algorithm2	
+
+ECDSA	Elliptic Curve Digital Signature Algorithm	
+
+EdDSA	Edwards Curve Digital Signature Algorithm3	
+
+FFC	Finite Field Cryptography	
+
+PKCS	Public Key Cryptography Standard	
+
+PKI	Public Key Infrastructure	
+
+RSA	Rivest Shamir Adleman4	
+
+SHA	Secure Hash Algorithm	
+
+SP	NIST Special Publication	
+
+TTP	Trusted Third Party	
+
+XOF	Extendable-Output Function	
